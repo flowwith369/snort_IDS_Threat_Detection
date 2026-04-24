@@ -59,7 +59,7 @@ was functioning correctly.
 The detailed lab report with screenshots and step-by-step explanation 
 is available in the file:
 
-👉 [`Snort_lab.pdf`](./Snort_lab.pdf)
+👉 [`Snort lab.pdf`](./Snort_lab.pdf)
 
 ---
 
